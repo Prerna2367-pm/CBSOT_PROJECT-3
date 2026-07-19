@@ -47,27 +47,6 @@ AI-Research-Paper-Intelligence-System/
 <img width="1024" height="509" alt="WhatsApp Image 2026-07-19 at 9 10 10 PM" src="https://github.com/user-attachments/assets/342f5ad8-dd51-4e40-915d-cfcfd7743323" />
 
 
-User Query
-    │
-    ▼
-Sentence Embeddings
-    │
-    ▼
-FAISS Semantic Search
-    │
-    ▼
-Relevant Papers
-    │
-    ▼
-LLM Processing
-    ├── Summary
-    ├── Keywords
-    └── Comparison
-    │
-    ▼
-Final Response
-
-
 🎯 Future Enhancements
 
 - Streamlit Web App
