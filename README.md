@@ -14,23 +14,21 @@ An AI-powered research assistant that enables semantic search, summarization, ke
 
 🛠 Tech Stack
 
-Category             Technology
+Language - Python
 
-Language               Python
+Framework - LangChain
 
-Framework             LangChain
+LLM - Groq (Llama 3.1 8B Instant)
 
-LLM              Groq (Llama 3.1 8B Instant)
+Embeddings - all-MiniLM-L6-v2
 
-Embeddings         all-MiniLM-L6-v2
+Vector Store - FAISS
 
-Vector Store           FAISS
+NLP - Sentence Transformers
 
-NLP               Sentence Transformers
+Keyword Extraction - KeyBERT
 
-Keyword Extraction     KeyBERT
-
-Environment         Jupyter Notebook
+Environment - Jupyter Notebook
 
 📂 Project Structure
 
@@ -66,20 +64,6 @@ LLM Processing
     ▼
 Final Response
 
-📦 Installation
-
-git clone https://github.com/yourusername/AI-Research-Paper-Intelligence-System.git
-cd AI-Research-Paper-Intelligence-System
-pip install -r requirements.txt
-
-▶️ Usage
-
-1. Open the notebook:
-   jupyter notebook
-2. Run all cells.
-3. Enter a research query (e.g., "Deep Learning for Medical Imaging").
-
-The system retrieves relevant papers, generates summaries, extracts keywords, and compares related research.
 
 🎯 Future Enhancements
 
