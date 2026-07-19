@@ -14,22 +14,34 @@ An AI-powered research assistant that enables semantic search, summarization, ke
 
 🛠 Tech Stack
 
-Category| Technology
-Language| Python
-Framework| LangChain
-LLM| Groq (Llama 3.1 8B Instant)
-Embeddings| all-MiniLM-L6-v2
-Vector Store| FAISS
-NLP| Sentence Transformers
-Keyword Extraction| KeyBERT
-Environment| Jupyter Notebook
+Category             Technology
+
+Language               Python
+
+Framework             LangChain
+
+LLM              Groq (Llama 3.1 8B Instant)
+
+Embeddings         all-MiniLM-L6-v2
+
+Vector Store           FAISS
+
+NLP               Sentence Transformers
+
+Keyword Extraction     KeyBERT
+
+Environment         Jupyter Notebook
 
 📂 Project Structure
 
 AI-Research-Paper-Intelligence-System/
+
 │── Coding_Blocks_Research_Paper_Intelligence_System.ipynb
+
 │── paper_faiss.index
+
 │── requirements.txt
+
 │── README.md
 
 ⚙️ Workflow
